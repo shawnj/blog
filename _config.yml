@@ -1,4 +1,3 @@
 name: shawnj's blog
 markdown: redcarpet
 pygments: true
-baseurl: /blog
